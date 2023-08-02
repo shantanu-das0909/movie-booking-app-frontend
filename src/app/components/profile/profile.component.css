@@ -6,8 +6,10 @@
 }
 
 .profile-header {
-  background-color: #f44336;
+  background-color: #3f51b5;
   color: #fff;
+  padding-left: 10em;
+  padding-bottom: 1em;
 }
 
 .profile-title {
@@ -37,4 +39,8 @@
 
 .update-password-btn {
   width: 100%;
+}
+
+.button {
+  background: red;
 }

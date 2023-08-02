@@ -6,8 +6,10 @@
 }
 
 .manage-ticket-header {
-  background-color: #f44336;
+  background-color: #3f51b5;
   color: #fff;
+  padding-left: 5em;
+  padding-bottom: 1em;
 }
 
 .manage-ticket-title {

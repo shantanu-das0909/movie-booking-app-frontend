@@ -10,7 +10,9 @@
 }
 
 .sign-up-header {
-  background-color: #f44336;
+  background-color: #3f51b5;
+  padding-left: 12em;
+  padding-bottom: 1em;
   color: #fff;
 }
 
@@ -21,4 +23,8 @@
 
 .sign-up-content {
   padding: 24px;
+}
+
+button.full-width {
+  background-color: #3f51b5;
 }
